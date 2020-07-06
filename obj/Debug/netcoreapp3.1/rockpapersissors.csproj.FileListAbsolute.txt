@@ -1,0 +1,13 @@
+C:\codeworkssource\codeworks\c\rockpapersissors\bin\Debug\netcoreapp3.1\rockpapersissors.exe
+C:\codeworkssource\codeworks\c\rockpapersissors\bin\Debug\netcoreapp3.1\rockpapersissors.deps.json
+C:\codeworkssource\codeworks\c\rockpapersissors\bin\Debug\netcoreapp3.1\rockpapersissors.runtimeconfig.json
+C:\codeworkssource\codeworks\c\rockpapersissors\bin\Debug\netcoreapp3.1\rockpapersissors.runtimeconfig.dev.json
+C:\codeworkssource\codeworks\c\rockpapersissors\bin\Debug\netcoreapp3.1\rockpapersissors.dll
+C:\codeworkssource\codeworks\c\rockpapersissors\bin\Debug\netcoreapp3.1\rockpapersissors.pdb
+C:\codeworkssource\codeworks\c\rockpapersissors\obj\Debug\netcoreapp3.1\rockpapersissors.csprojAssemblyReference.cache
+C:\codeworkssource\codeworks\c\rockpapersissors\obj\Debug\netcoreapp3.1\rockpapersissors.AssemblyInfoInputs.cache
+C:\codeworkssource\codeworks\c\rockpapersissors\obj\Debug\netcoreapp3.1\rockpapersissors.AssemblyInfo.cs
+C:\codeworkssource\codeworks\c\rockpapersissors\obj\Debug\netcoreapp3.1\rockpapersissors.csproj.CoreCompileInputs.cache
+C:\codeworkssource\codeworks\c\rockpapersissors\obj\Debug\netcoreapp3.1\rockpapersissors.dll
+C:\codeworkssource\codeworks\c\rockpapersissors\obj\Debug\netcoreapp3.1\rockpapersissors.pdb
+C:\codeworkssource\codeworks\c\rockpapersissors\obj\Debug\netcoreapp3.1\rockpapersissors.genruntimeconfig.cache
